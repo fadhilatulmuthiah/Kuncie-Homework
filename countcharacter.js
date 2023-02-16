@@ -10,7 +10,6 @@ function input(str){
   for (let c in b){
     console.log(c+": " + b[c])
   }
-
 }
 
 //input kalimat yang ingin dihitung
